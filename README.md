@@ -1,4 +1,4 @@
-# CS6120-PS2
+# CS6120-HW2
 In this repository, there are two Jupyter notebooks, each of which contains two tasks and their relevant instructions.
 
 ## Assignment Instructions:
